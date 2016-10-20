@@ -1,0 +1,1 @@
+A silent repository for the PASCAL code written in the high school years for NOIP and NOI.
